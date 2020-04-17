@@ -1,1 +1,0 @@
-perbaikan kondisi query ffs karena isu performance
